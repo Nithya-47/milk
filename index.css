@@ -11,7 +11,7 @@ body {
 }
 .container{
     position: relative;
-    top: 30px;
+    top: 20px;
     left: 40px;
 }
 .inp{
@@ -20,28 +20,15 @@ body {
     align-items: center;
     position: relative;
     right: 100px;
-    top: 10px;
+    top: 20px;
 }
-#ser{
-    height: 50px;
-    width: 300px;
-    position: absolute;
-
-}
-#ser-btn{
-    height: 50px;
-    width: 100px;
-    position: absolute;
-    right: 736px;
-
-}
-
 header {
   background: #333;
   color: #fff;
   border-bottom: 1px solid #444;
 }
 .icons{
+    padding: 0;
     display: flex;
     justify-content: flex-end;
 }
